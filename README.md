@@ -21,7 +21,7 @@ I'm a passionate **Student Software Developer** from Belgium, currently pursuing
 
 **Tools & Methodologies:**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Agile](https://img.shields.io/badge/Agile/Scrum-0096D6?style=for-the-badge&logo=jira&logoColor=white) *(Alternatively, keep your icons - just add icons for .NET, C#, Java, Blazor, PostgreSQL, MySQL!)*
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Agile](https://img.shields.io/badge/Agile/Scrum-0096D6?style=for-the-badge&logo=jira&logoColor=white)
 ---
 
 ### 📊 My GitHub Stats:
