@@ -2,10 +2,10 @@
 
 I'm a passionate **Student Software Developer** from Belgium, currently pursuing my Bachelor's degree at **HOGENT**. I have a strong focus on building **web applications**.
 
-* 🎓 Studying: **Bachelor of Applied Science - Informatics @ HOGENT** (Sept 2022 - June 2025) [cite: 10]
-* 🔭 I’m currently working as an **Intern .NET Developer @ Bel&Bo**, developing a planning tool using **.NET (C#) and Blazor**[cite: 2, 6, 7].
-* 🌱 I enjoy developing user-friendly and performant software solutions[cite: 3].
-* 🤝 I like working in **Agile/Scrum** environments[cite: 4].
+* 🎓 Studying: **Bachelor of Applied Science - Informatics @ HOGENT** (Sept 2022 - June 2025) 
+* 🔭 I’m currently working as an **Intern .NET Developer @ Bel&Bo**, developing a planning tool using **.NET (C#) and Blazor**.
+* 🌱 I enjoy developing user-friendly and performant software solutions.
+* 🤝 I like working in **Agile/Scrum** environments.
 
 ---
 
