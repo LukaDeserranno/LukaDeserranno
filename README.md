@@ -1,4 +1,4 @@
-# Hi there, I'm Luka! 👋🇧🇪
+# Hi there, I'm Luka! 👋🇧🇪 ![Profile Views](https://komarev.com/ghpvc/?username=LukaDeserranno&color=blueviolet&style=for-the-badge)
 
 I'm a passionate **Student Software Developer** from Belgium, currently pursuing my Bachelor's degree at **HOGENT**.
 I have a strong focus on building **web applications** and enjoy developing user-friendly and performant software solutions.
@@ -8,7 +8,7 @@ I have a strong focus on building **web applications** and enjoy developing user
 * 🌱 Always eager to learn and tackle new challenges in software development.
 * 🤝 Enjoy collaborating in **Agile/Scrum** environments.
 
-![Profile Views](https://komarev.com/ghpvc/?username=LukaDeserranno&color=blueviolet&style=for-the-badge)
+
 
 ---
 
