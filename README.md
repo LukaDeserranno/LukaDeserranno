@@ -1,6 +1,6 @@
 # Hi there, I'm Luka! 👋🇧🇪
 
-I'm a passionate **Student Software Developer** from Belgium, currently pursuing my Bachelor's degree at **HOGENT**. I have a strong focus on **.NET and C#**.
+I'm a passionate **Student Software Developer** from Belgium, currently pursuing my Bachelor's degree at **HOGENT**. I have a strong focus on building **web applications**.
 
 * 🎓 Studying: **Bachelor of Applied Science - Informatics @ HOGENT** (Sept 2022 - June 2025) 
 * 🔭 I’m currently working as an **Intern .NET Developer @ Bel&Bo**, developing a planning tool using **.NET (C#) and Blazor**.
