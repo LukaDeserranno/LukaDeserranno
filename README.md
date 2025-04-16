@@ -61,7 +61,12 @@ I have a strong focus on building **web applications** and enjoy developing user
 
 ### 🔗 Connect with me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/luka-deserranno-6bb029279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:luka.deserranno@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/luka-deserranno-6bb029279" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="mailto:luka.deserranno@outlook.com">
+    <img src="https://img.shields.io/badge/Email-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge" />
+  </a>
 </p>
