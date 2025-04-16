@@ -2,10 +2,10 @@
 
 I'm a passionate **Student Software Developer** from Belgium, currently pursuing my Bachelor's degree at **HOGENT**. I have a strong focus on building **web applications**.
 
-* 🎓 Studying: **Bachelor of Applied Science - Informatics @ HOGENT** (Sept 2022 - June 2025) 
-* 🔭 I’m currently working as an **Intern .NET Developer @ Bel&Bo**, developing a planning tool using **.NET (C#) and Blazor**.
-* 🌱 I enjoy developing user-friendly and performant software solutions.
-* 🤝 I like working in **Agile/Scrum** environments.
+* 🎓 Studying: **Bachelor of Applied Science - Informatics @ HOGENT** (Sept 2022 - June 2025) [cite: 10]
+* 🔭 I’m currently working as an **Intern .NET Developer @ Bel&Bo**, developing a planning tool using **.NET (C#) and Blazor**[cite: 2, 6, 7].
+* 🌱 I enjoy developing user-friendly and performant software solutions[cite: 3].
+* 🤝 I like working in **Agile/Scrum** environments[cite: 4].
 
 ---
 
@@ -13,7 +13,7 @@ I'm a passionate **Student Software Developer** from Belgium, currently pursuing
 
 **Backend & Databases:**
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend:**
 
@@ -37,4 +37,5 @@ I'm a passionate **Student Software Developer** from Belgium, currently pursuing
 
 <p align="left">
 <a href="https://www.linkedin.com/in/luka-deserranno-6bb029279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:luka.deserranno@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
 </p>
