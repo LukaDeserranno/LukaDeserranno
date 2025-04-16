@@ -2,7 +2,7 @@
 
 I'm a passionate developer/student from Belgium.
 
-* 📫 How to reach me: luka.deserranno@outlook.com
+
 
 ---
 
@@ -31,9 +31,5 @@ I'm a passionate developer/student from Belgium.
 ### 🔗 Connect with me:
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="YOUR_TWITTER_URL" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="YOUR_WEBSITE_URL" target="_blank"><img src="https://img.shields.io/badge/Website-YourColor?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
+<a href="https://www.linkedin.com/in/luka-deserranno-6bb029279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=LukaDeserranno)
