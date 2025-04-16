@@ -1,17 +1,8 @@
-## Hi there 👋
-
-<p align="center">
-  <img src="URL_TO_YOUR_BANNER" width="800">
-</p>
-
 # Hi there, I'm Luka! 👋🇧🇪
 
-I'm a [Your Role/Description - e.g., passionate developer, student, tech enthusiast] from Belgium.
+I'm a passionate developer/student from Belgium.
 
-* 🔭 I’m currently working on [Project Name](Link_to_project)
-* 🌱 I’m currently learning [Technology/Skill]
-* 👯 I’m looking to collaborate on ...
-* 📫 How to reach me: [Your Email]
+* 📫 How to reach me: luka.deserranno@outlook.com
 
 ---
 
